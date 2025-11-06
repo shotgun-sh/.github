@@ -1,6 +1,6 @@
 # Shotgun 
 
-**We're building spec-driven development for AI coding agents.**
+**We're building spec-driven development CLI.**
 
 AI agents made developers fast at building. Also made them fast at building the wrong things.
 
