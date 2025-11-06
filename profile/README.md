@@ -75,4 +75,4 @@ Real case: We needed payments. AI agents suggested building a custom proxy (3-4 
 
 ---
 
-**Website:** [shotgun.sh](https://shotgun.sh) | **Twitter:** [@ShotgunCLI](https://x.com/ShotgunCLI)
+
